@@ -14,8 +14,8 @@ A lightweight developer tool for analyzing layer-wise performance of CNN models 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/priyanshu1044/Model-Profiler.git
+cd Model-Profiler
 ```
 
 2. Install dependencies:
